@@ -11,7 +11,7 @@ As of 31st of January, the exchange rate was 1 USD to N1,520. However, there has
 Understanding the reasons behind these fluctuations would require an in-depth analysis of the economic and political situation in Nigeria and its interactions with the global economy.
 
 ![Screenshot 2024-02-02 181107](https://github.com/Essien-glory/Naira-Rates/assets/139914656/1c9b72b2-f536-4a89-9dee-f10966e78b36)
-To get the Percentage change = (End date - Start Date)/Start date * 100 ![Screenshot 2024-02-02 184609](https://github.com/Essien-glory/Naira-Rates/assets/139914656/08644ba4-5a88-4469-b147-1602244d7c06)
+To get the Percentage change = (End Rate - Start Rate)/Start Rate * 100 ![Screenshot 2024-02-02 184609](https://github.com/Essien-glory/Naira-Rates/assets/139914656/08644ba4-5a88-4469-b147-1602244d7c06)
 
 
 In January 2024, there was a 26.36% increase in Exchange rate.
