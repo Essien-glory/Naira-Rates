@@ -2,9 +2,12 @@
 This Project shows the fluctuation in the exchange rate between the US Dollar (USD) and Nigerian Naira (N). 
 
 TOOL USED: EXCEL
+
+
 DATA SOURCED From Naira_Rates
 
 Over the month of January, there was a consistent rise in the value of the USD against Naira.
+
 As of 31st of January, the exchange rate was 1 USD to N1,520. However, there has been a recent decrease in the USD rate, with the current exchange rate standing at 1 USD to N1,433.24.
 
 
